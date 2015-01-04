@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /horsesmouth.html
+Disallow: /*?*
+Disallow: /php/
+Disallow: /g/
+Disallow: /pagespeed/defer/
+Disallow: /hmm/
